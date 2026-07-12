@@ -1,1 +1,1 @@
-# FPGA-Based-CNN-Accelerator-for-Real-Time-Image-Processing
+Image Processing on Zynq SoC Using AXI DMA and FPGA Acceleration
